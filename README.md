@@ -22,8 +22,14 @@ Machine learning model to predict churn 30 days in advance, deployed as an inter
 - **Key finding:** Model achieves 0.832 AUC — identifies 83% of churners correctly
 - [GitHub](https://github.com/qianqian-data/project3-churn-prediction) · [🚀 Live App](https://qianqian-churn-predictor.streamlit.app/)
 
+### 🧠 Project 4 — AI Data Analysis Agent
+Upload any CSV file and get instant AI-powered business insights and recommendations.
+- **Tools:** Python, Streamlit, Plotly, Claude API (Anthropic)
+- **Key feature:** Combines automated visualization with Claude AI to generate actionable business insights from raw data
+- [GitHub](https://github.com/qianqian-data/project4-ai-analysis-agent)
+
 ## Skills
-`Python` `SQL` `pandas` `scikit-learn` `Tableau` `matplotlib` `seaborn` `Streamlit` `Git`
+`Python` `SQL` `pandas` `scikit-learn` `Tableau` `matplotlib` `seaborn` `Streamlit` `Plotly` `Claude API` `Git`
 
 ## Background
 Previously a Rights Executive at a French comics company,
