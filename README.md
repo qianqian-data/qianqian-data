@@ -1,7 +1,6 @@
 # Hi, I'm Qianqian 👋
-
-Data Analyst with a background in international publishing and content licensing.
-I use data to uncover business insights and drive retention strategy.
+Aspiring Data Analyst transitioning from international publishing and content licensing.
+I build data projects that go beyond analysis — turning insights into working products.
 
 ## Portfolio Projects
 
@@ -17,16 +16,16 @@ SQL and cohort analysis to identify high-risk user segments.
 - **Key finding:** Users in first 12 months churn at 47.7% — proactive onboarding is critical
 - [GitHub](https://github.com/qianqian-data/project2-user-retention)
 
-### 🤖 Project 3 — Churn Prediction Model
-Machine learning model to predict churn 30 days in advance.
-- **Tools:** Python, scikit-learn, logistic regression, random forest
+### 🤖 Project 3 — Churn Prediction Model + Live Web App
+Machine learning model to predict churn 30 days in advance, deployed as an interactive web application.
+- **Tools:** Python, scikit-learn, Streamlit, logistic regression
 - **Key finding:** Model achieves 0.832 AUC — identifies 83% of churners correctly
-- [GitHub](https://github.com/qianqian-data/project3-churn-prediction)
+- [GitHub](https://github.com/qianqian-data/project3-churn-prediction) · [🚀 Live App](https://qianqian-churn-predictor.streamlit.app/)
 
 ## Skills
-`Python` `SQL` `pandas` `scikit-learn` `Tableau` `matplotlib` `seaborn` `Git`
+`Python` `SQL` `pandas` `scikit-learn` `Tableau` `matplotlib` `seaborn` `Streamlit` `Git`
 
 ## Background
 Previously a Rights Executive at a French comics company,
 managing content licensing across Asian markets.
-Now applying data analytics to solve business problems.
+Now building data products that connect analysis to real business decisions.
