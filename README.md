@@ -8,25 +8,25 @@ Aspiring Data Analyst transitioning from international publishing and content li
 Exploratory analysis on 7,032 subscription users to identify churn drivers.
 - Tools: `Python` `pandas` `matplotlib` `Tableau`
 - Key finding: Month-to-month users churn at 42.7% — 15× higher than two-year contracts
-- [GitHub](#)
+- [GitHub](https://github.com/qianqian-data/project1-subscription-dashboard)
 
 🔍 **Project 2 — User Retention Analysis**
 SQL and cohort analysis to identify high-risk user segments.
 - Tools: `Python` `SQL` `seaborn` `SQLite`
 - Key finding: Users in first 12 months churn at 47.7% — proactive onboarding is critical
-- [GitHub](#)
+- [GitHub](https://github.com/qianqian-data/project2-user-retention)
 
 🤖 **Project 3 — Churn Prediction Model + Live Web App**
 Machine learning model to predict churn 30 days in advance, deployed as an interactive web application.
 - Tools: `Python` `scikit-learn` `Streamlit` `logistic regression`
 - Key finding: Model achieves 0.832 AUC — identifies 83% of churners correctly
-- [GitHub](#) · [🚀 Live App](#)
+- [GitHub](https://github.com/qianqian-data/project3-churn-prediction) · [🚀 Live App](https://qianqian-churn-predictor.streamlit.app/)
 
 🧠 **Project 4 — AI Data Analysis Agent**
 Upload any CSV file and get instant AI-powered business insights and recommendations.
 - Tools: `Python` `Streamlit` `Plotly` `Claude API`
 - Key feature: Combines automated visualization with Claude AI to generate actionable business insights from raw data
-- [GitHub](#)
+- [GitHub](https://github.com/qianqian-data/project4-ai-analysis-agent)
 
 🌱 **Project 5 — ESG Risk Dashboard (Sustainalytics-Inspired Model)**
 Replicated the core logic of Sustainalytics' ESG risk scoring model using S&P 500 public data. Designed industry-specific E/S/G weighting systems and calibrated risk classification thresholds — achieving 88.6% match rate with official ratings.
